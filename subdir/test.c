@@ -1,2 +1,2 @@
-subdir test.c
+subdir test.caaa
 °¡´ó´ó
